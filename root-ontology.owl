@@ -1,0 +1,888 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/DZpaar2ixdBTBMwEIPsdkI#"
+     xml:base="http://webprotege.stanford.edu/project/DZpaar2ixdBTBMwEIPsdkI"
+     xmlns:webprotege="http://webprotege.stanford.edu/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/DZpaar2ixdBTBMwEIPsdkI"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/1999/02/22-rdf-syntax-ns#definition -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#definition">
+        <rdfs:label>rdf:definition</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/1999/02/22-rdf-syntax-ns#goal -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#goal">
+        <rdfs:label>rdf:goal</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/1999/02/22-rdf-syntax-ns#görev -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#görev">
+        <rdfs:label>rdf:görev</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/1999/02/22-rdf-syntax-ns#task -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#task">
+        <rdfs:label>rdf:task</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R74JPjHLDjBkps5kdgFqZWh -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R74JPjHLDjBkps5kdgFqZWh">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>has a catalog scanning</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R79WJ3buIyeQgxTHVi40aAp -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R79WJ3buIyeQgxTHVi40aAp">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>in Ankara</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8JPUuMPdOwHCy3ls2CYO3t -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8JPUuMPdOwHCy3ls2CYO3t">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>in Bodrum</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8n4Z2476vV2cbtyDuegn9Z -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8n4Z2476vV2cbtyDuegn9Z">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>has a lending desk</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9DOllwqW7VaxMbDc5Ic8FF -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9DOllwqW7VaxMbDc5Ic8FF">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>has proxy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9RLpUMCzGAnNda6StWGVDv -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9RLpUMCzGAnNda6StWGVDv">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>has a reservation</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9WRjQTsIYZtr3h1wIHXUEW -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9WRjQTsIYZtr3h1wIHXUEW">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">depends university</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB4cMeyAx0pTfEceFepTO80 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RB4cMeyAx0pTfEceFepTO80">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>in İzmir</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBAmrHCoybvTxKdlbkGTcQX -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBAmrHCoybvTxKdlbkGTcQX">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>The children&apos;s library has a pediatric</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCvv5I59841XNZPlY255r4f -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RCvv5I59841XNZPlY255r4f">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>User is focused</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCyA81nvcaBTdm00xZbH6Hm -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RCyA81nvcaBTdm00xZbH6Hm">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">depends National Education Directorate</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDX5hNK76y5WSQBjQdCNZpw -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RDX5hNK76y5WSQBjQdCNZpw">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>depends public libraries</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDYaciAP2X0NGScYc9VPC50 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RDYaciAP2X0NGScYc9VPC50">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>has counseling and education unit</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDapRy17mgS7Qr2W0QeVwEZ -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RDapRy17mgS7Qr2W0QeVwEZ">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>Access to information</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RHfdtbGCmZc0FepT43cGL8 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RHfdtbGCmZc0FepT43cGL8">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>in Muğla</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RQ2gNWE7bFoHNDpbPhUJDF -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RQ2gNWE7bFoHNDpbPhUJDF">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>has computer access</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Ro65IFYFqGyPttYMNvmPih -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/Ro65IFYFqGyPttYMNvmPih">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>has document provisioning</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RuR0WuQXWhP9ESeLqTdME1 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RuR0WuQXWhP9ESeLqTdME1">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">depends Culture and Tourism Ministry</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8u15Trox1w6s9xuw3j0rDk -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R8u15Trox1w6s9xuw3j0rDk">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>library name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB3U8EfcqmuTwV1F6ybgE12 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RB3U8EfcqmuTwV1F6ybgE12">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">year of foundation</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDEcabhHRNlahqeJEHcXP4P -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RDEcabhHRNlahqeJEHcXP4P">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>opening time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDLUDcNctFiIe47PkafRLPI -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RDLUDcNctFiIe47PkafRLPI">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>closing time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDeG6yp7zHS354DY5jJvfEB -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RDeG6yp7zHS354DY5jJvfEB">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>phone number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDpeyrrGqMkYN0nQQMNjQAT -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RDpeyrrGqMkYN0nQQMNjQAT">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>Web site</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RVXgi7L6iQF6IZaArYpnPc -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RVXgi7L6iQF6IZaArYpnPc">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>adress</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8LbfSl5KRP0EJLzQtuGz5c -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8LbfSl5KRP0EJLzQtuGz5c">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBKd6eE5OBIBHKnqqniI4We"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RuR0WuQXWhP9ESeLqTdME1"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>İlçe Halk Kütüphaneleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBKd6eE5OBIBHKnqqniI4We -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBKd6eE5OBIBHKnqqniI4We">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBvUW5SPD8GnXFahYAnbWE1"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8n4Z2476vV2cbtyDuegn9Z"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9RLpUMCzGAnNda6StWGVDv"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RQ2gNWE7bFoHNDpbPhUJDF"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RuR0WuQXWhP9ESeLqTdME1"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdf:definition xml:lang="tr">Halk kütüphaneleri, toplumsal yaşamın, ilişkilerin ve gereksinimlerin sonucu olarak ortaya çıkmış; amaç ve işlevlerini içinde bulundukları tarihsel ve toplumsal koşulların biçimlendirdiği kurumlardır.</rdf:definition>
+        <rdf:definition xml:lang="tr">Halk kütüphaneleri; cins, yaş, ırk, milliyet, din, dil, eğitim, kültür, sosyo-ekonomik düzey ve politik görüş farkı gözetmeden, her tür kütüphane materyali ve çeşitli iletişim yolları aracılığıyla kültür ürünlerini ve bilgiyi insanlığın hizmetine ücretsiz sunarak, onlara ömür boyu eğitim ve boş zamanları değerlendirme olanağı veren, toplumla bütünleşip, sağlıklı kamuoyunun oluşmasına olanak sağlayan, toplumun ekonomik, sosyal, eğitsel kültürel ve teknik kalkınmasının gerçekleşmesini etkileyen, dünya barışının sağlanmasına yardımcı olan demokratik kuruluşlardır.</rdf:definition>
+        <rdf:goal xml:lang="tr">1. Kültür ve Turizm Bakanlığının amaçlarını gerçekleştirmek için çalışmak,
+
+2. Ülkenin kültürel kalkınmasında önemli yeri olan kütüphanelerin yaygınlaştırılarak kütüphanecilik hizmetlerini çağdaş düzeye çıkarmak,
+
+3. Kültür hayatımıza yeni eserler kazandırmak</rdf:goal>
+        <rdf:task xml:lang="tr">1.Yurt içinde ve yurt dışında basılmış, okuyucuya faydalı yayınları, Türk kültürü ile ilgili yazma eser ve belgeleri ve diğer kütüphane malzemelerini temin etmek, kütüphanelerin koleksiyonlarını zenginleştirmek,
+2.Kıymetli yazma eserleri, ilgili kütüphanelerde toplayarak araştırmacı ve okuyucunun hizmetine sunmak, bunların gelecek nesillere aktarılmasını sağlamak amacı ile bakım ve onarımını yapmak,
+3.Halkımızın geçmişteki her çeşit eserlerimizi kolaylıkla bulmasını ve onlardan faydalanmasını sağlamak,</rdf:task>
+        <rdfs:label xml:lang="tr">Halk Kütüphaneleri</rdfs:label>
+        <rdfs:seeAlso rdf:resource="http://www.kygm.gov.tr/TR,132244/halk-kutuphanesi.html"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBo76ApYvdCwv9jzQh9V2V5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBo76ApYvdCwv9jzQh9V2V5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBKd6eE5OBIBHKnqqniI4We"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RuR0WuQXWhP9ESeLqTdME1"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>İl Halk Kütüphaneleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBvUW5SPD8GnXFahYAnbWE1 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBvUW5SPD8GnXFahYAnbWE1">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9DOllwqW7VaxMbDc5Ic8FF"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/RHMSxORiFkyfMaCXvSjb78"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8n4Z2476vV2cbtyDuegn9Z"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCvv5I59841XNZPlY255r4f"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RDapRy17mgS7Qr2W0QeVwEZ"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdf:definition xml:lang="tr">Belli bir sisteme göre tasnif edilen kitap ve benzeri materyallerin toplandığı, saklandığı, okuyucu ve araştırmacıların istifadesine sunulduğu yer. Farsçada ev manasına gelen “hane” ile Arapçada kitaplar manasına gelen “kütüb” kelimelerinin birleşmesinden meydana gelen “hane-i kütüb” (kitaplar evi) isim tamlamasındaki tamlama “i”sinin düşmesi ve kelimelerin yer değiştirerek birleşmesinden meydana gelmiş, Kütüphane şeklinde söylenen birleşik bir isimdir</rdf:definition>
+        <rdfs:label xml:lang="tr">Kütüphaneler</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCms4aiMPhNC6jOwin9Ib0F -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCms4aiMPhNC6jOwin9Ib0F">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBvUW5SPD8GnXFahYAnbWE1"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCyA81nvcaBTdm00xZbH6Hm"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RD1pKYpiMsr3c4EfQW99EzQ"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RDX5hNK76y5WSQBjQdCNZpw"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>Çocuk Kütüphaneleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RHMSxORiFkyfMaCXvSjb78 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RHMSxORiFkyfMaCXvSjb78">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBvUW5SPD8GnXFahYAnbWE1"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8n4Z2476vV2cbtyDuegn9Z"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9DOllwqW7VaxMbDc5Ic8FF"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9RLpUMCzGAnNda6StWGVDv"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RDYaciAP2X0NGScYc9VPC50"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RQ2gNWE7bFoHNDpbPhUJDF"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/Ro65IFYFqGyPttYMNvmPih"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment>Üniversite kütüphaneleri, özellikle üniversite öğrencilerine, akademik ve idari personele hizmet vermeye yönelik kütüphanelerdir.</rdfs:comment>
+        <rdfs:label>Üniversite Kütüphaneleri</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://aykanzekai.wordpress.com/kutuphane-turleri-2/kutuphane-turleri-2-2/universite-kutuphaneleri/"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rw3F5bAhu1AIhG6EKoaJZD -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rw3F5bAhu1AIhG6EKoaJZD">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBvUW5SPD8GnXFahYAnbWE1"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R74JPjHLDjBkps5kdgFqZWh"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8n4Z2476vV2cbtyDuegn9Z"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9RLpUMCzGAnNda6StWGVDv"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCyA81nvcaBTdm00xZbH6Hm"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RQ2gNWE7bFoHNDpbPhUJDF"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdf:definition xml:lang="tr">Okullarda çalışan öğretmenlerin ve okuyan öğrencilerin her türlü gereksinimine açık olan kütüphanelerdir. Bu kütüphaneleri yönetmelik gereği bilgi ve belge yönetimi mezunu bir kimse ya da kütüphanecilik kursu almış olan bir kimse ;okul tarafından görevlendirilen öğretmenler veyahut görevli öğretmenin sorumluluğunda öğrenciler yönetirler.</rdf:definition>
+        <rdf:goal xml:lang="tr">Okul Kütüphanesi eğitim sürecinin ayrılmaz bir parçasıdır. Aşağıdakiler okuryazarlığın, bilgi okuryazarlığının, öğretimin, öğrenmenin ve kültürel gelişimin temeli olarak, okul kütüphanesi hizmetlerinin özünü temsil eder.
+Okulun görevleriyle birlikte öğretim programında belirtilen eğitimsel amaçları desteklemek ve ilerletmek;
+Çocuklarda okuma, öğrenme, yaşamları boyunca kütüphane kullanma alışkanlığını ve zevkini geliştirmek ve sürdürmek;
+Bilgi edinme,anlama, hayal kurma ve eğlenme amacıyla bilgiyi kullanma veyaratıcılığı sağlama deneyimlerini oluşturacak fırsatlar sunmak;
+Toplumdaki iletişim yöntemlerine duyarlı olarak yapıya, biçime veya ortama bakılmaksızın bilgiyi değerlendirmeleri ve kullanmaları için bütün öğrencileri eğiterek beceri kazanmalarını desteklemek</rdf:goal>
+        <rdfs:label xml:lang="tr">Okul Kütüphaneleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R0iwfEegDUZmdeCrfRSC11 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R0iwfEegDUZmdeCrfRSC11">
+        <rdfs:label>Y</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R74sc0RvMKgLWba4QHrqTSI -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R74sc0RvMKgLWba4QHrqTSI">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCms4aiMPhNC6jOwin9Ib0F"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Ali Dayı Çocuk Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RB3U8EfcqmuTwV1F6ybgE12 xml:lang="tr">2010</webprotege:RB3U8EfcqmuTwV1F6ybgE12>
+        <webprotege:RDEcabhHRNlahqeJEHcXP4P rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">08.00</webprotege:RDEcabhHRNlahqeJEHcXP4P>
+        <webprotege:RDLUDcNctFiIe47PkafRLPI xml:lang="tr">17.00</webprotege:RDLUDcNctFiIe47PkafRLPI>
+        <webprotege:RDpeyrrGqMkYN0nQQMNjQAT xml:lang="tr">www.alidayicocukkutuphanesi.gov.tr</webprotege:RDpeyrrGqMkYN0nQQMNjQAT>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc xml:lang="tr">Ali Fuat Başgil Mah. Nene Hatun Cad. No: 57 GOP/Ankara</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:label xml:lang="tr">Ankara Ali Dayı Çocuk Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7SFF9nFUyHwA4S2DyyARVx -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7SFF9nFUyHwA4S2DyyARVx">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8LbfSl5KRP0EJLzQtuGz5c"/>
+        <webprotege:R8n4Z2476vV2cbtyDuegn9Z rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:RDYaciAP2X0NGScYc9VPC50 rdf:resource="http://webprotege.stanford.edu/Rs071A4YBQufAwt4OcpXFe"/>
+        <webprotege:RHfdtbGCmZc0FepT43cGL8 rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:RQ2gNWE7bFoHNDpbPhUJDF rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Fethiye İlçe Halk Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RDEcabhHRNlahqeJEHcXP4P rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">09.00</webprotege:RDEcabhHRNlahqeJEHcXP4P>
+        <webprotege:RDLUDcNctFiIe47PkafRLPI rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">17.00</webprotege:RDLUDcNctFiIe47PkafRLPI>
+        <webprotege:RDeG6yp7zHS354DY5jJvfEB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(0252) 614 12 88</webprotege:RDeG6yp7zHS354DY5jJvfEB>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kesikkapı Mahallesi, 505. Sk. No:4, 48300 Fethiye/Muğla</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:label>Fethiye İlçe Halk Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7x7I5c6f4EIGLYr9Do51EV -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7x7I5c6f4EIGLYr9Do51EV">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCms4aiMPhNC6jOwin9Ib0F"/>
+        <webprotege:RHfdtbGCmZc0FepT43cGL8 rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Peksimet Çocuk Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RB3U8EfcqmuTwV1F6ybgE12 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</webprotege:RB3U8EfcqmuTwV1F6ybgE12>
+        <rdfs:label>Peksimet Çocuk Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8UTZhfERTywZ1BHAUF06o2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8UTZhfERTywZ1BHAUF06o2">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBo76ApYvdCwv9jzQh9V2V5"/>
+        <webprotege:R8n4Z2476vV2cbtyDuegn9Z rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:R9RLpUMCzGAnNda6StWGVDv rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:RQ2gNWE7bFoHNDpbPhUJDF rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Sakarya İl Halk Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RB3U8EfcqmuTwV1F6ybgE12 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1958</webprotege:RB3U8EfcqmuTwV1F6ybgE12>
+        <webprotege:RDEcabhHRNlahqeJEHcXP4P rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">09.00</webprotege:RDEcabhHRNlahqeJEHcXP4P>
+        <webprotege:RDLUDcNctFiIe47PkafRLPI rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">17.00</webprotege:RDLUDcNctFiIe47PkafRLPI>
+        <webprotege:RDeG6yp7zHS354DY5jJvfEB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0264 277 36 69</webprotege:RDeG6yp7zHS354DY5jJvfEB>
+        <webprotege:RDpeyrrGqMkYN0nQQMNjQAT rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.sakaryakutup.gov.tr</webprotege:RDpeyrrGqMkYN0nQQMNjQAT>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sakarya İl Halk Kütüphanesi
+Cumhuriyet Mah. Dr. Kamil Sok. No 38
+54100 Adapazarı / SAKARYA</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sakarya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8X0wTFuygAbvweEozmQMen -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8X0wTFuygAbvweEozmQMen">
+        <rdfs:label>Fal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R96eNGV6q4DnGGxsvPRXPkN -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R96eNGV6q4DnGGxsvPRXPkN">
+        <rdfs:label>FA</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9RP04gacYBOxGdGy89v4ql -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9RP04gacYBOxGdGy89v4ql">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBKd6eE5OBIBHKnqqniI4We"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBo76ApYvdCwv9jzQh9V2V5"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Muğla Hoca Mustafa Efendi İl Halk Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RDEcabhHRNlahqeJEHcXP4P rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">09.00</webprotege:RDEcabhHRNlahqeJEHcXP4P>
+        <webprotege:RDLUDcNctFiIe47PkafRLPI rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">17.00</webprotege:RDLUDcNctFiIe47PkafRLPI>
+        <webprotege:RDeG6yp7zHS354DY5jJvfEB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(0252) 214 90 15</webprotege:RDeG6yp7zHS354DY5jJvfEB>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc xml:lang="tr">Müştakbey Mh. Postane Sokak No:5, 48000 Muğla Merkez/Muğla</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:label>Muğla</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9lmhPw5hZlYOwGaiMIezMH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9lmhPw5hZlYOwGaiMIezMH">
+        <rdfs:label>F</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9nNNy93yX59iCEzWozaYYE -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9nNNy93yX59iCEzWozaYYE">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RHMSxORiFkyfMaCXvSjb78"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">ODTÜ Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RDeG6yp7zHS354DY5jJvfEB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(0312) 210 27 79</webprotege:RDeG6yp7zHS354DY5jJvfEB>
+        <webprotege:RDpeyrrGqMkYN0nQQMNjQAT xml:lang="tr">https://lib.metu.edu.tr/</webprotege:RDpeyrrGqMkYN0nQQMNjQAT>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc xml:lang="tr">Üniversiteler Mahallesi, Orta Doğu Teknik Üniversitesi, 06800 Çankaya/Ankara</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:label xml:lang="tr">ODTÜ Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9xDTIZaYfDvTwqbpoqDBty -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9xDTIZaYfDvTwqbpoqDBty">
+        <rdfs:label>fals</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBQZxhvFrk5XvZy4CNa8lYk -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBQZxhvFrk5XvZy4CNa8lYk">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBKd6eE5OBIBHKnqqniI4We"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBo76ApYvdCwv9jzQh9V2V5"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Bartın İl Halk Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RB3U8EfcqmuTwV1F6ybgE12 xml:lang="tr">1993</webprotege:RB3U8EfcqmuTwV1F6ybgE12>
+        <webprotege:RDEcabhHRNlahqeJEHcXP4P xml:lang="tr">09.00</webprotege:RDEcabhHRNlahqeJEHcXP4P>
+        <webprotege:RDLUDcNctFiIe47PkafRLPI xml:lang="tr">17.00</webprotege:RDLUDcNctFiIe47PkafRLPI>
+        <webprotege:RDeG6yp7zHS354DY5jJvfEB xml:lang="tr">21465448521</webprotege:RDeG6yp7zHS354DY5jJvfEB>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bartın</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:label xml:lang="tr">Bartın</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBblPxWVOv0KwHFG70qzBIG -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBblPxWVOv0KwHFG70qzBIG">
+        <rdfs:label>Yanlı</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBsH6MrNczra4Zf05KAnACr -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBsH6MrNczra4Zf05KAnACr">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Rw3F5bAhu1AIhG6EKoaJZD"/>
+        <webprotege:RCvv5I59841XNZPlY255r4f rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sınav Koleji Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <rdfs:label>Sınav Koleji Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCqKvLJcObWZQdEBCUwy31O -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCqKvLJcObWZQdEBCUwy31O">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8LbfSl5KRP0EJLzQtuGz5c"/>
+        <webprotege:R8n4Z2476vV2cbtyDuegn9Z rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:RHfdtbGCmZc0FepT43cGL8 rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:RQ2gNWE7bFoHNDpbPhUJDF rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Ortaca İlçe Halk Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RDEcabhHRNlahqeJEHcXP4P rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">09.00</webprotege:RDEcabhHRNlahqeJEHcXP4P>
+        <webprotege:RDLUDcNctFiIe47PkafRLPI rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">17.00</webprotege:RDLUDcNctFiIe47PkafRLPI>
+        <webprotege:RDeG6yp7zHS354DY5jJvfEB rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">02526966027</webprotege:RDeG6yp7zHS354DY5jJvfEB>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dalaman pazar yeri yanı no 65</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:label>Ortaca İlçe Halk Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD1pKYpiMsr3c4EfQW99EzQ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RD1pKYpiMsr3c4EfQW99EzQ">
+        <rdfs:label>Yanlıştır</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDMspC4bKlD3vyKwYuH2Lpv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDMspC4bKlD3vyKwYuH2Lpv">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RHMSxORiFkyfMaCXvSjb78"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Hacettepe Üniversitesi Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RB3U8EfcqmuTwV1F6ybgE12 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1958</webprotege:RB3U8EfcqmuTwV1F6ybgE12>
+        <webprotege:RDpeyrrGqMkYN0nQQMNjQAT xml:lang="tr">http://www.library.hacettepe.edu.tr/</webprotege:RDpeyrrGqMkYN0nQQMNjQAT>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beytepe, Sıhhiye ve Beşevler</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:comment xml:lang="tr">7 gün 24 saat boyunca açıktır</rdfs:comment>
+        <rdfs:label>Hacettepe Üniversitesi Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH">
+        <rdfs:label>True</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDT8hkFLOQGcTFdPDbGVZjl -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDT8hkFLOQGcTFdPDbGVZjl">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBvUW5SPD8GnXFahYAnbWE1"/>
+        <rdfs:label xml:lang="tr">Okul Kütüphaneleri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDyFGTYjZ1CwgEbP9f1QaBb -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDyFGTYjZ1CwgEbP9f1QaBb">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCms4aiMPhNC6jOwin9Ib0F"/>
+        <webprotege:RB4cMeyAx0pTfEceFepTO80 rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Şebnem Tabak Çocuk Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RB3U8EfcqmuTwV1F6ybgE12 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2017</webprotege:RB3U8EfcqmuTwV1F6ybgE12>
+        <webprotege:RDEcabhHRNlahqeJEHcXP4P rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">08.00</webprotege:RDEcabhHRNlahqeJEHcXP4P>
+        <webprotege:RDLUDcNctFiIe47PkafRLPI rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">17.00</webprotege:RDLUDcNctFiIe47PkafRLPI>
+        <webprotege:RDeG6yp7zHS354DY5jJvfEB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0232) 399 40 00</webprotege:RDeG6yp7zHS354DY5jJvfEB>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc xml:lang="tr">Afet Evleri Zübeyde Hanım Mahallesi
+35570 Karşıyaka</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:label>Şebnem Tabak Çocuk Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RMY3EnAIxhaJWUiXwKIkCD -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RMY3EnAIxhaJWUiXwKIkCD">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8LbfSl5KRP0EJLzQtuGz5c"/>
+        <webprotege:R8n4Z2476vV2cbtyDuegn9Z rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:RHfdtbGCmZc0FepT43cGL8 rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Dalaman İlçe Halk Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RB3U8EfcqmuTwV1F6ybgE12 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1903</webprotege:RB3U8EfcqmuTwV1F6ybgE12>
+        <webprotege:RDEcabhHRNlahqeJEHcXP4P rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">09.00</webprotege:RDEcabhHRNlahqeJEHcXP4P>
+        <webprotege:RDLUDcNctFiIe47PkafRLPI rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">17.00</webprotege:RDLUDcNctFiIe47PkafRLPI>
+        <webprotege:RDeG6yp7zHS354DY5jJvfEB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0 252 692 51 51</webprotege:RDeG6yp7zHS354DY5jJvfEB>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Atatürk cad. no14</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:label>Dalaman İlçe Halk Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RWywonUmO0HP2DicEJFITv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RWywonUmO0HP2DicEJFITv">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RHMSxORiFkyfMaCXvSjb78"/>
+        <webprotege:R79WJ3buIyeQgxTHVi40aAp rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Gazi Üniversitesi Merkez Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RB3U8EfcqmuTwV1F6ybgE12 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</webprotege:RB3U8EfcqmuTwV1F6ybgE12>
+        <webprotege:RDeG6yp7zHS354DY5jJvfEB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0 (312) 2022901</webprotege:RDeG6yp7zHS354DY5jJvfEB>
+        <webprotege:RDpeyrrGqMkYN0nQQMNjQAT xml:lang="tr">http://lib.gazi.edu.tr/</webprotege:RDpeyrrGqMkYN0nQQMNjQAT>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc xml:lang="tr">Gazi Üniversitesi Merkez Kampüsü</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:comment xml:lang="tr">Kütüphane çalışma saatleri web sitesinde belirtildiği şekildedir.</rdfs:comment>
+        <rdfs:label>Gazi Üniversitesi Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RdFKyPi9I2tTZ4WAc2kvr -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RdFKyPi9I2tTZ4WAc2kvr">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/Rw3F5bAhu1AIhG6EKoaJZD"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Ted Ankara Koleji Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RB3U8EfcqmuTwV1F6ybgE12 xml:lang="tr">1963</webprotege:RB3U8EfcqmuTwV1F6ybgE12>
+        <webprotege:RDEcabhHRNlahqeJEHcXP4P xml:lang="tr">08.00</webprotege:RDEcabhHRNlahqeJEHcXP4P>
+        <webprotege:RDLUDcNctFiIe47PkafRLPI xml:lang="tr">shshs</webprotege:RDLUDcNctFiIe47PkafRLPI>
+        <webprotege:RDpeyrrGqMkYN0nQQMNjQAT xml:lang="tr">http://library.tedankara.k12.tr/</webprotege:RDpeyrrGqMkYN0nQQMNjQAT>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc xml:lang="tr">Taşpınar Mahallesi 2800. Cadde, No: 5 
+İncek, Gölbaşı	
+Ankara</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:label xml:lang="tr">TED Ankara Koleji Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RqDBNmYCSByA1joKlL3YI7 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RqDBNmYCSByA1joKlL3YI7">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8LbfSl5KRP0EJLzQtuGz5c"/>
+        <webprotege:R8n4Z2476vV2cbtyDuegn9Z rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:RDYaciAP2X0NGScYc9VPC50 rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:RHfdtbGCmZc0FepT43cGL8 rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:RQ2gNWE7bFoHNDpbPhUJDF rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Köyceğiz İlçe Halk Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RB3U8EfcqmuTwV1F6ybgE12 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1952</webprotege:RB3U8EfcqmuTwV1F6ybgE12>
+        <webprotege:RDEcabhHRNlahqeJEHcXP4P rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">09.00</webprotege:RDEcabhHRNlahqeJEHcXP4P>
+        <webprotege:RDLUDcNctFiIe47PkafRLPI rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">17.00</webprotege:RDLUDcNctFiIe47PkafRLPI>
+        <webprotege:RDeG6yp7zHS354DY5jJvfEB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0 252 262 47 65</webprotege:RDeG6yp7zHS354DY5jJvfEB>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc xml:lang="tr">Köyceğiz belediye yanı</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:label>Köyceğiz İlçe Halk Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rs071A4YBQufAwt4OcpXFe -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rs071A4YBQufAwt4OcpXFe">
+        <rdfs:label>False</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rww20yAjKn6wRcHqqfDqXj -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rww20yAjKn6wRcHqqfDqXj">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RHMSxORiFkyfMaCXvSjb78"/>
+        <webprotege:R79WJ3buIyeQgxTHVi40aAp rdf:resource="http://webprotege.stanford.edu/RDPWzqEhB7trjfp6dPWULyH"/>
+        <webprotege:R8u15Trox1w6s9xuw3j0rDk xml:lang="tr">Ankara Üniversitesi Kütüphanesi</webprotege:R8u15Trox1w6s9xuw3j0rDk>
+        <webprotege:RDeG6yp7zHS354DY5jJvfEB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">+9(0312) 223 57 61</webprotege:RDeG6yp7zHS354DY5jJvfEB>
+        <webprotege:RDpeyrrGqMkYN0nQQMNjQAT xml:lang="tr">http://kutuphane.ankara.edu.tr/</webprotege:RDpeyrrGqMkYN0nQQMNjQAT>
+        <webprotege:RVXgi7L6iQF6IZaArYpnPc xml:lang="tr">Ankara Üniversitesi Tandoğan Yerleşkesi Öğrenme Merkezi, Dögol Caddesi 06100
+Tandoğan / Ankara / Türkiye</webprotege:RVXgi7L6iQF6IZaArYpnPc>
+        <rdfs:label xml:lang="tr">Ankara Üniversitesi Kütüphanesi</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.3.1) https://github.com/owlcs/owlapi -->
+
